@@ -1,0 +1,60 @@
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.AssemblyReference.cache
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.GenerateResource.cache
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.AssemblyInfoInputs.cache
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.AssemblyInfo.cs
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.CoreCompileInputs.cache
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.exe
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.deps.json
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.runtimeconfig.json
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.dll
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.pdb
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\Graphviz.dll
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.CopyComplete
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.dll
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\refint\MinCutMaxFlow.dll
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.pdb
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.genruntimeconfig.cache
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\ref\MinCutMaxFlow.dll
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.MinCutMaxFlow.resources
+C:\Users\Zso\source\repos\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\example_graph.txt
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\example_graph.txt
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.exe
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.deps.json
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.runtimeconfig.json
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.dll
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.pdb
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\bin\Debug\net6.0-windows\Graphviz.dll
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.AssemblyReference.cache
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.MinCutMaxFlow.resources
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.GenerateResource.cache
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.AssemblyInfoInputs.cache
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.AssemblyInfo.cs
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.CoreCompileInputs.cache
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.CopyComplete
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.dll
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\refint\MinCutMaxFlow.dll
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.pdb
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.genruntimeconfig.cache
+E:\OneDrive\MSc\UCA\Semester 2\Operations Research\project\MinCutMaxFlow\MinCutMaxFlow\obj\Debug\net6.0-windows\ref\MinCutMaxFlow.dll
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\bin\Debug\net6.0-windows\example_graph.txt
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.exe
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.deps.json
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.runtimeconfig.json
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.dll
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\bin\Debug\net6.0-windows\MinCutMaxFlow.pdb
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\bin\Debug\net6.0-windows\Graphviz.dll
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.AssemblyReference.cache
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.MinCutMaxFlow.resources
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.GenerateResource.cache
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.AssemblyInfoInputs.cache
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.AssemblyInfo.cs
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.CoreCompileInputs.cache
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.csproj.CopyComplete
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.dll
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\refint\MinCutMaxFlow.dll
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.pdb
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\MinCutMaxFlow.genruntimeconfig.cache
+C:\Users\zsmal\Desktop\Project_Zsombor_Malatinszki (1)\MinCutMaxFlow\obj\Debug\net6.0-windows\ref\MinCutMaxFlow.dll
